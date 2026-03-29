@@ -23,7 +23,6 @@ It is built to practice basic NLP (Natural Language Processing) and understand h
 ## 📊 Example  
 Input:  
 > "Free money now!!!"  
-
 Output:  
 > Spam  
 
